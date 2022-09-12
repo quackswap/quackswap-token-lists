@@ -182,7 +182,7 @@
         "symbol": {
           "type": "string",
           "description": "The symbol for the token; must be alphanumeric",
-          "pattern": "^[a-zA-Z0-9+\\-\\_%\\/\\$\\.]+$",
+          "pattern": "^[a-zA-Z0-9+\\-%_\\/\\$\\.]+$",
           "minLength": 1,
           "maxLength": 20,
           "examples": [

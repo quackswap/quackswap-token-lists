@@ -1,5 +1,5 @@
 {
-  "name": "@hotcrosscom/quackswap-token-lists",
+  "name": "@quackswap/token-lists",
   "author": "bmino",
   "description": "📚 The Token Lists specification",
   "version": "1.0.0",
@@ -14,7 +14,7 @@
     "node": ">=10"
   },
   "repository": {
-    "url": "https://github.com/pangolindex/token-lists",
+    "url": "https://github.com/quackswap/quackswap-token-lists",
     "type": "git"
   },
   "scripts": {
